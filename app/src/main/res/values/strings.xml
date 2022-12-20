@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Notes Pro</string>
+    <string name="notes_pro">Notes Pro</string>
+    <string name="hello">Hello.</string>
+    <string name="lets_get_started">Lets Get Started</string>
+    <string name="email_id">Email Id</string>
+    <string name="password">password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login">Login</string>
+    <string name="dont_have_an_account">Dont have an account ?</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="cp">Confirm Password</string>
+    <string name="add_new_note">Add New Note</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="notes">Notes</string>
+    <string name="this_can_be_note_content_that_can_be_long">this can be note content that can be long</string>
+    <string name="note_title">note title</string>
+    <string name="nt">note tixtle</string>
+
+</resources>
