@@ -1,5 +1,6 @@
 package com.example.notespro;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.widget.Toast;
 
@@ -21,6 +22,7 @@ public class utility {
             .document(currentUser.getUid()).collection(  "my_notes");
 
 }
+    @SuppressLint("SimpleDateFormat")
     static String timestampToString (java.security.Timestamp timestamp){
       return   new SimpleDateFormat( "MM/dd/yyyy").format(Timestamp.now().toDate());
     }
